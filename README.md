@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hgjiang123.
+- 👋 Hi, I’m Hgj.
 - 👀 I’m interested in java. 
 - 🌱 I’m currently learning spring and vue.
 - 📫 How to reach me : e-mali: 1535243711@qq.com; tel: 15324559238.
